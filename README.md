@@ -78,12 +78,7 @@ A história se passa antes da guerra que reduziu o mundo à ruína. Nessa época
 <br/>
 <h2>Adquira o jogo na Steam ⭐</h2>
 
-<iframe
-  src="https://store.steampowered.com/app/2983350/planetarian_Snow_Globe/"
-  frameborder="0"
-  width="646"
-  height="190">
-</iframe>
+<iframe src="https://store.steampowered.com/widget/2983350/" frameborder="0" width="646" height="190"></iframe>
 
 <hr>
 
