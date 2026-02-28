@@ -11,31 +11,29 @@
 
 <img alt="planetarian ~Globo de Neve~" src="https://github.com/user-attachments/assets/c828c423-765c-43c0-9cb2-86d651f8e712" />
 
-
-<h3> A neve esconde tudo: até corações que tremem de amor... até surtos de loucura.</h3>
-Nesta página você encontra informações sobre a tradução da demo de <a href="https://vndb.org/v226">Kare to Kare no Hazama De -White Labyrinth-</a>,
-lançada pela AMEDEO em 2005.
+<h3>"Que tal visitar o planetário?"</h3>
+Nesta página você encontra informações sobre a tradução da visual novel<a href="https://vndb.org/v27747" target="_blank">planetarian ~Snow Globe~</a>,
+lançada pela Key em 2021.
 </div>
-
 <br/>
 
 <div style="max-width:796px; text-align:justify; line-height:1.6;">
+
 <h3>Sinopse</h3>
 A história se passa antes da guerra que reduziu o mundo à ruína. Nessa época, Yumemi trabalhava há quase dez anos no planetário do terraço do Centro Comercial Hanabishi. Um dia, porém, começa a agir de maneira estranha e simplesmente sai, vagando pela cidade sem rumo. Sem entender o que está acontecendo, a equipe do planetário envia uma funcionária, Satomi Kurahashi, para ir atrás dela e trazê-la de volta.
 <br/>
 <br/>
 <h4>✅ Progresso da tradução: 100%</h4>
-<h4>❄️ Lançamento: 14/03/2026</h4>
+<h4>⭐ Lançamento: 14/03/2026</h4>
 </div>
 
 <br/>
 <br/>
 
 <div style="max-width:796px;">
-
-<img width="1600" height="900" alt="02" src="https://github.com/user-attachments/assets/a4cdc754-4a85-4424-a9a7-4d5a7f2f5441" />
-<img width="1600" height="900" alt="01" src="https://github.com/user-attachments/assets/abc22b3d-5a91-4b42-9ddf-fa4722ac16ed" />
-<img width="1600" height="900" alt="03" src="https://github.com/user-attachments/assets/39658986-5684-4b12-a848-78704a00c731" />
+<img alt="01" src="https://github.com/user-attachments/assets/abc22b3d-5a91-4b42-9ddf-fa4722ac16ed" />
+<img alt="02" src="https://github.com/user-attachments/assets/a4cdc754-4a85-4424-a9a7-4d5a7f2f5441" />
+<img alt="03" src="https://github.com/user-attachments/assets/39658986-5684-4b12-a848-78704a00c731" />
 
 <br/>
 <br/>
