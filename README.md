@@ -1,8 +1,8 @@
 <div style="max-width:796px; text-align:justify; line-height:1.6;">
   <div class="tags-badges">
-  <img src="https://img.shields.io/badge/distopia-f2a7c6?style=flat&logo=heart&logoColor=white" alt="Distopia">
-  <img src="https://img.shields.io/badge/slice of life-d6336c?style=flat&logo=heart&logoColor=white" alt="Slice of Life">
-  <img src="https://img.shields.io/badge/kinetic novel-2b2b2b?style=flat&logo=detective&logoColor=white" alt="Kinetic Novel">
+    <img src="https://img.shields.io/badge/Fic%C3%A7%C3%A3o%20Cient%C3%ADfica-Tag-00b894" alt="Ficção Científica">
+    <img src="https://img.shields.io/badge/Slice_of_Life-Tag-ffb6b9" alt="Slice of Life">
+    <img src="https://img.shields.io/badge/Kinetic_Novel-Format-6c5ce7" alt="Kinetic Novel">
 </div>
 <br/>
 
