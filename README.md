@@ -1,10 +1,7 @@
 <div style="max-width:796px; text-align:justify; line-height:1.6;">
   <div class="tags-badges">
-  <!-- Otome -->
   <img src="https://img.shields.io/badge/distopia-f2a7c6?style=flat&logo=heart&logoColor=white" alt="Distopia">
-  <!-- Romance -->
   <img src="https://img.shields.io/badge/slice of life-d6336c?style=flat&logo=heart&logoColor=white" alt="Slice of Life">
-  <!-- Mistério -->
   <img src="https://img.shields.io/badge/kinetic novel-2b2b2b?style=flat&logo=detective&logoColor=white" alt="Kinetic Novel">
 </div>
 <br/>
@@ -12,7 +9,7 @@
 <img alt="planetarian ~Globo de Neve~" src="https://github.com/user-attachments/assets/c828c423-765c-43c0-9cb2-86d651f8e712" />
 
 <h3>"Que tal visitar o planetário?"</h3>
-Nesta página você encontra informações sobre a tradução da visual novel<a href="https://vndb.org/v27747" target="_blank">planetarian ~Snow Globe~</a>,
+Nesta página você encontra informações sobre a tradução da visual novel <a href="https://vndb.org/v27747" target="_blank">planetarian ~Snow Globe~</a>,
 lançada pela Key em 2021.
 </div>
 <br/>
