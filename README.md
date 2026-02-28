@@ -9,7 +9,7 @@
 <img alt="planetarian ~Globo de Neve~" src="https://github.com/user-attachments/assets/c828c423-765c-43c0-9cb2-86d651f8e712" />
 
 <h3>"Que tal visitar o planetário?"</h3>
-Nesta página você encontra informações sobre a tradução da visual novel <a href="https://vndb.org/v27747" target="_blank"> planetarian ~Snow Globe~</a>,
+Nesta página você encontra informações sobre a tradução da visual novel <a href="https://vndb.org/v27747" target="blank"> planetarian ~Snow Globe~</a>,
 lançada pela Key em 2021.
 </div>
 <br/>
@@ -64,7 +64,7 @@ A história se passa antes da guerra que reduziu o mundo à ruína. Nessa época
 
 <a href="https://github.com/G2-Games/lbee-utils/" target="blank">G2-Games</a><br/>
 <a href="https://key.visualarts.gr.jp/" target="blank">Key</a><br/>
-<a href="https://taiyakiclub.wordpress.com/" target="blank">Taiyaki Club</a>
+<a href="https://taiyakiclub.wordpress.com/" target="blank">Taiyaki Club</a><br/>
 <a href="https://github.com/wetor/LuckSystem" target="blank">wetor</a><br/>
 
 <br/>
