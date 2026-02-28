@@ -1,11 +1,11 @@
 <div style="max-width:796px; text-align:justify; line-height:1.6;">
   <div class="tags-badges">
   <!-- Otome -->
-  <img src="https://img.shields.io/badge/otome-f2a7c6?style=flat&logo=heart&logoColor=white" alt="Distopia">
+  <img src="https://img.shields.io/badge/distopia-f2a7c6?style=flat&logo=heart&logoColor=white" alt="Distopia">
   <!-- Romance -->
-  <img src="https://img.shields.io/badge/romance-d6336c?style=flat&logo=heart&logoColor=white" alt="Slice of Life">
+  <img src="https://img.shields.io/badge/slice of life-d6336c?style=flat&logo=heart&logoColor=white" alt="Slice of Life">
   <!-- Mistério -->
-  <img src="https://img.shields.io/badge/mistério-2b2b2b?style=flat&logo=detective&logoColor=white" alt="Kinetic Novel">
+  <img src="https://img.shields.io/badge/kinetic novel-2b2b2b?style=flat&logo=detective&logoColor=white" alt="Kinetic Novel">
 </div>
 <br/>
 
