@@ -78,9 +78,12 @@ A história se passa antes da guerra que reduziu o mundo à ruína. Nessa época
 <br/>
 <h2>Adquira o jogo na Steam ⭐</h2>
 
-<a href="https://store.steampowered.com/app/1642580/" target="_blank" rel="noopener">
-  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1642580/header.jpg" width="646" alt="planetarian: Snow Globe na Steam">
-</a>
+<div style="max-width:646px;margin:auto">
+  <iframe
+    src="https://store.steampowered.com/widget/1642580/"
+    style="width:100%;height:190px;border:none">
+  </iframe>
+</div>
 
 <hr>
 
