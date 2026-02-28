@@ -1,4 +1,3 @@
-
 <div style="max-width:796px; text-align:justify; line-height:1.6;">
   <div class="tags-badges">
   <!-- Otome -->
@@ -10,7 +9,8 @@
 </div>
 <br/>
 
-<img alt="karekare-pt-br" src="https://github.com/user-attachments/assets/5a848ee4-7b53-40ce-b8db-741c5627f2a0" />
+<img alt="planetarian ~Globo de Neve~" src="https://github.com/user-attachments/assets/c828c423-765c-43c0-9cb2-86d651f8e712" />
+
 
 <h3> A neve esconde tudo: até corações que tremem de amor... até surtos de loucura.</h3>
 Nesta página você encontra informações sobre a tradução da demo de <a href="https://vndb.org/v226">Kare to Kare no Hazama De -White Labyrinth-</a>,
@@ -33,11 +33,9 @@ A história se passa antes da guerra que reduziu o mundo à ruína. Nessa época
 
 <div style="max-width:796px;">
 
-<img src="https://github.com/user-attachments/assets/b64eb177-727e-4b3a-8ec1-452e29ee7d03" />
-<img src="https://github.com/user-attachments/assets/91f075b7-e017-42d3-b1df-cc4a8edde580" />
-<img src="https://github.com/user-attachments/assets/a51cb69e-76f2-4187-af7f-3c3452e51b7b" />
-<img src="https://github.com/user-attachments/assets/20e23b84-bd44-40db-b166-af570a16f533" />
-<img src="https://github.com/user-attachments/assets/49c42b89-d8d7-4ff7-9504-1fcb0cc76c6c" />
+<img width="1600" height="900" alt="02" src="https://github.com/user-attachments/assets/a4cdc754-4a85-4424-a9a7-4d5a7f2f5441" />
+<img width="1600" height="900" alt="01" src="https://github.com/user-attachments/assets/abc22b3d-5a91-4b42-9ddf-fa4722ac16ed" />
+<img width="1600" height="900" alt="03" src="https://github.com/user-attachments/assets/39658986-5684-4b12-a848-78704a00c731" />
 
 <br/>
 <br/>
