@@ -78,12 +78,12 @@ A história se passa antes da guerra que reduziu o mundo à ruína. Nessa época
 <br/>
 <h2>Adquira o jogo na Steam ⭐</h2>
 
-<div style="max-width:646px;margin:auto">
-  <iframe
-    src="https://store.steampowered.com/widget/1642580/"
-    style="width:100%;height:190px;border:none">
-  </iframe>
-</div>
+<iframe
+  src="https://store.steampowered.com/widget/2983350/"
+  frameborder="0"
+  width="646"
+  height="190">
+</iframe>
 
 <hr>
 
