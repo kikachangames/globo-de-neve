@@ -78,7 +78,7 @@ A história se passa antes da guerra que reduziu o mundo à ruína. Nessa época
 <br/>
 <h3>Adquira o jogo</h3>
 
-<iframe src="https://store.steampowered.com/widget/2983350/?t="planetarian: Globo de Neve", a prequel de "planetarian: O Sonho de uma Pequena Estrela", agora disponível com suporte a áudio binaural! Acompanhe a história de uma robô e seus colegas de trabalho em um planetário, e as pequenas alegrias que encontram no dia a dia." frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/2983350/?t=planetarian: Globo de Neve, a prequel de planetarian: O Sonho de uma Pequena Estrela, agora disponível com suporte a áudio binaural! Acompanhe a história de uma robô e seus colegas de trabalho em um planetário, e as pequenas alegrias que encontram no dia a dia." frameborder="0" width="646" height="190"></iframe>
 
 <hr>
 
