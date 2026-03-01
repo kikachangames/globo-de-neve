@@ -70,7 +70,7 @@ A história se passa antes da guerra que reduziu o mundo à ruína. Nessa época
 <br/>
 <br/>
 
-<h3>Download</h3>
+<h3>Download do patch</h3>
 <p> Em breve...</p>
 </div>
 
