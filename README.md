@@ -76,7 +76,7 @@ A história se passa antes da guerra que reduziu o mundo à ruína. Nessa época
 
 <br/>
 <br/>
-<h2>Adquira o jogo na Steam ⭐</h2>
+<h3>Adquira o jogo na Steam</h3>
 
 <iframe src="https://store.steampowered.com/widget/2983350/" frameborder="0" width="646" height="190"></iframe>
 
