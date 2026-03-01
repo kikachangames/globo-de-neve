@@ -78,7 +78,7 @@ A história se passa antes da guerra que reduziu o mundo à ruína. Nessa época
 <br/>
 <h3>Adquira o jogo</h3>
 
-<iframe src="https://store.steampowered.com/widget/2983350/?t=%22planetarian%3A%20Globo%20de%20Neve%22%2C%20a%20prequela%20de%20%22planetarian%3A%20O%20Sonho%20de%20uma%20Pequena%20Estrela%22%2C%20agora%20dispon%C3%ADvel%20com%20suporte%20a%20%C3%A1udio%20binaural!%20Acompanhe%20a%20hist%C3%B3ria%20de%20uma%20rob%C3%B4%20companheira%20e%20seus%20colegas%20de%20trabalho%20em%20um%20planet%C3%A1rio%2C%20e%20as%20pequenas%20alegrias%20que%20encontram%20no%20dia%20a%20dia." frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/2983350/?t=%22planetarian%3A%20Globo%20de%20Neve%22%2C%20a%20prequela%20de%20%22planetarian%3A%20O%20Sonho%20de%20uma%20Pequena%20Estrela%22%2C%20agora%20dispon%C3%ADvel%20com%20suporte%20a%20%C3%A1udio%20binaural!%20Acompanhe%20a%20hist%C3%B3ria%20de%20uma%20rob%C3%B4%20companheira%20e%20seus%20colegas%20de%20trabalho%20em%20um%20planet%C3%A1rio%2C%20e%20as%20pequenas%20alegrias%20que%20encontram%20no%20dia%20a%20dia." frameborder="0" width="100%"></iframe>
 
 <hr>
 
