@@ -65,6 +65,7 @@ A história se passa antes da guerra que reduziu o mundo à ruína. Nessa época
 <a href="https://github.com/G2-Games/lbee-utils/" target="blank">G2-Games</a><br/>
 <a href="https://key.visualarts.gr.jp/" target="blank">Key</a><br/>
 <a href="https://taiyakiclub.wordpress.com/" target="blank">Taiyaki Club</a><br/>
+<a href="https://discord.gg/fWyEeGva9Y/" target="blank">Visual Novel Android Brasil</a><br/>
 <a href="https://github.com/wetor/LuckSystem" target="blank">wetor</a><br/>
 <a href="https://zeroforcetranslations.wordpress.com/" target="blank">Zero Force Translations</a><br/>
 
