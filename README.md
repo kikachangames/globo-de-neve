@@ -17,7 +17,7 @@ Nesta página você encontra informações sobre o patch PT-BR da visual novel <
 <div style="max-width:796px; text-align:justify; line-height:1.6;">
 
 <h3>Sinopse</h3>
-A história se passa antes da guerra que reduziu o mundo à ruínas. Nessa época, Yumemi trabalhava há quase dez anos no planetário do terraço do Centro Comercial Hanabishi. Um dia, porém, começa a agir de maneira estranha e simplesmente sai, vagando pela cidade sem rumo. Sem entender o que está acontecendo, a equipe do planetário envia uma funcionária, Satomi Kurahashi, para ir atrás de Yumemi e trazê-la de volta.
+A história se passa antes da guerra que reduziu o mundo à ruínas. Nessa época, Yumemi trabalhava há quase dez anos no planetário do terraço do Centro Comercial Hanabishi. Um dia, porém, ela começa a agir de maneira estranha e simplesmente sai, vagando pela cidade sem rumo. Sem entender o que está acontecendo, a equipe do planetário envia uma funcionária, Satomi Kurahashi, para ir atrás de Yumemi e trazê-la de volta.
 <br/>
 <br/>
 <h4>✅ Progresso da tradução: 100%</h4>
