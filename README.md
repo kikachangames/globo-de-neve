@@ -74,8 +74,8 @@ A história se passa antes da guerra que reduziu o mundo à ruína. Nessa época
 <br/>
 
 <h3>Download do patch</h3>
-<img src="https://github.com/kikachangames/globo-de-neve/blob/main/img/button-planetarian.png">
-  </div>
+<img src="https://raw.githubusercontent.com/kikachangames/globo-de-neve/refs/heads/main/img/button-planetarian.png">
+  </div>1
 
 <br/>
 <br/>
