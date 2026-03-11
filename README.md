@@ -64,6 +64,7 @@ A história se passa antes da guerra que reduziu o mundo à ruínas. Nessa époc
 
 <a href="https://github.com/G2-Games/lbee-utils/" target="blank">G2-Games</a><br/>
 <a href="https://key.visualarts.gr.jp/" target="blank">Key</a><br/>
+<a href="https://www.sekaivisualnovels.com/" target="blank">Sekai Visual Novel</a><br/>
 <a href="https://taiyakiclub.wordpress.com/" target="blank">Taiyaki Club</a><br/>
 <a href="https://discord.gg/fWyEeGva9Y/" target="blank">Visual Novel Android Brasil</a><br/>
 <a href="https://github.com/wetor/LuckSystem" target="blank">wetor</a><br/>
@@ -86,7 +87,7 @@ A história se passa antes da guerra que reduziu o mundo à ruínas. Nessa époc
 <hr>
 
 <p style="text-align:center;">
-  <small>Última atualização: 07/03/2026.</small>
+  <small>Última atualização: 11/03/2026.</small>
 </p>
 
 <p style="text-align:center;">
