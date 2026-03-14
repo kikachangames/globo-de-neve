@@ -87,7 +87,7 @@ A história se passa antes da guerra que reduziu o mundo à ruínas. Nessa époc
 <hr>
 
 <p style="text-align:center;">
-  <small>Última atualização: 11/03/2026.</small>
+  <small>Última atualização: 14/03/2026.</small>
 </p>
 
 <p style="text-align:center;">
