@@ -75,7 +75,9 @@ A história se passa antes da guerra que reduziu o mundo à ruínas. Nessa époc
 <br/>
 
 <h3>Download do patch</h3>
-<a href="https://github.com/kikachangames/globo-de-neve/releases/download/v1.0/planetarian-globo-de-neve-1.0.exe"<img src="https://raw.githubusercontent.com/kikachangames/globo-de-neve/refs/heads/main/img/button-planetarian.png"></a>
+<a href="https://github.com/kikachangames/globo-de-neve/releases/download/v1.0/planetarian-globo-de-neve-1.0.exe">
+  
+  <img src="https://raw.githubusercontent.com/kikachangames/globo-de-neve/refs/heads/main/img/button-planetarian.png"></a>
   </div>
 
 <br/>
