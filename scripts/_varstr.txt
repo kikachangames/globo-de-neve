@@ -1,0 +1,8 @@
+VARSTR_SET ("planetarian雪圏球第１章", "新人コンパニオン", "Uma Nova Colega", "La nouvelle collègue", "新人接待员", "新人接待員")
+VARSTR_SET ("planetarian雪圏球第２章", "寂れた下町とロボット", "A Robô e a Rua Deserta", "Le robot et la rue abandonnée", "萧条的下城区和机器人", "蕭條的市中心與機器人")
+VARSTR_SET ("planetarian雪圏球第３章", "ポンコツ社員", "Funcionária Difícil", "Une employée à problèmes", "笨蛋员工", "笨蛋員工")
+VARSTR_SET ("planetarian雪圏球第４章", "やさしい巨人", "Gigante Gentil", "Le géant débonnaire", "温和的巨人", "溫和的巨人")
+VARSTR_SET ("planetarian雪圏球第５章", "繰り返される職場放棄", "Fugindo do Trabalho de Novo", "Manquements répétés au devoir", "一次又一次的擅自离岗", "一次又一次地擅自離崗")
+VARSTR_SET ("planetarian雪圏球第６章", "それぞれの痛み", "Conflitos Internos", "Conflits intérieurs", "各自的痛楚", "各自的痛楚")
+VARSTR_SET ("planetarian雪圏球第７章", "雪の欠片", "Flocos de Neve", "Flocons de neige", "雪的碎片", "雪的碎片")
+VARSTR_SET ("planetarian雪圏球スタッフロール", "スタッフロール", "Créditos", "Crédits de fin", "职员表", "職員表")
