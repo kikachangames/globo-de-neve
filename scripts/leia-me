@@ -10,7 +10,7 @@ UNPACK SCRIPT:
 ./LuckSystem script decompile -s SCRIPT.PAK -c UTF-8 -O data/PlanetarianSG.txt -p data/PlanetarianSG.py -o planetarian
 
 REPACK SCRIPT:
-./LuckSystem script import -s SCRIPT.PAK -c UTF-8 -O data/PlanetarianSG.txt -p data/PlanetarianSG.py -i /sysroot/home/brocolis/Jogos/LuckSystem/planetarian -o /sysroot/home/brocolis/Jogos/LuckSystem/planetarian/export/SCRIPT.PAK
+./LuckSystem script import -s SCRIPT.PAK -c UTF-8 -O data/PlanetarianSG.txt -p data/PlanetarianSG.py -i ~/LuckSystem/planetarian -o ~/LuckSystem/planetarian/export/SCRIPT.PAK
 
 
 UNPACK PAK:
