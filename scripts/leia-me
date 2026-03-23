@@ -1,1 +1,24 @@
-Scripts extraídos do arquivo SCRIPT.PAK 
+Scripts extraídos do arquivo SCRIPT.PAK com LuckSystem
+
+=========================================
+Luca System Tools
+=========================================
+
+* Planetarian SG
+
+UNPACK SCRIPT:
+./LuckSystem script decompile -s SCRIPT.PAK -c UTF-8 -O data/PlanetarianSG.txt -p data/PlanetarianSG.py -o planetarian
+
+REPACK SCRIPT:
+./LuckSystem script import -s SCRIPT.PAK -c UTF-8 -O data/PlanetarianSG.txt -p data/PlanetarianSG.py -i /sysroot/home/brocolis/Jogos/LuckSystem/planetarian -o /sysroot/home/brocolis/Jogos/LuckSystem/planetarian/export/SCRIPT.PAK
+
+
+UNPACK PAK:
+./LuckSystem pak extract -s BGCG.PAK -i BGCG.PAK -o planetarian/BGCG.PAK -a planetarian
+
+
+CONVERTER CZ4 PARA PNG:
+czutil decode arquivo.cz4 arquivo.png
+
+CONVERTER PNG PARA CZ4:
+czutil replace LOAD_BG.cz1 LOAD_BG.png LOAD_BG_NEW.cz1
